@@ -1,0 +1,5 @@
+node_modules
+*.js
+
+bun.lockb
+error_screenshot.png

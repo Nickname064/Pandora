@@ -1,0 +1,25 @@
+{
+  "name": "pandora",
+  "version": "1.0.0",
+  "description": "An interface to interact with LLM APIs for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.15.2",
+    "express": "^4.19.2",
+    "puppeteer": "^23.10.1",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es2020", // Ensure the target option is set to es2017 or higher
+      "module": "commonjs", // or "esnext" if you're using ES modules
+      "lib": ["es2020", "dom"], // Ensure that the necessary library features are available
+      "esModuleInterop": true, // If using "commonjs", set esModuleInterop to true
+      "allowSyntheticDefaultImports": true // If using "commonjs", set allowSyntheticDefaultImports to true
+    }
+}
