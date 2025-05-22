@@ -3,3 +3,4 @@ node_modules
 
 bun.lockb
 error_screenshot.png
+*.png
